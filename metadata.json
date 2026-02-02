@@ -1,0 +1,7 @@
+{
+  "name": "A3-Trade Institutional Terminal",
+  "description": "A high-performance equity research platform featuring 360° analytics, institutional flow tracking, and AI-powered multi-pillar research nodes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
